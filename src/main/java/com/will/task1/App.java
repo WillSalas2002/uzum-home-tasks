@@ -1,7 +1,7 @@
-package com.will;
+package com.will.task1;
 
-import com.will.model.Email;
-import com.will.model.Person;
+import com.will.task1.model.Email;
+import com.will.task1.model.Person;
 
 public class App {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.will.model;
+package com.will.task1.model;
 
 import lombok.*;
 
